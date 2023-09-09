@@ -1,1 +1,1 @@
-visit https://hng-stage1-kfqzl9j54-aisosaaghedo.vercel.app/ to launch
+visit https://hng-stage1-hejs2wrb4-aisosaaghedo.vercel.app to launch
