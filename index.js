@@ -25,7 +25,7 @@ function updateDate() {
   displayDate();
 
   
-  setInterval(displayDate, 1000);
+  setInterval(displayDate, 10);
 }
 
 
